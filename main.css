@@ -2,43 +2,24 @@
   color: grey;
 }
 
-.icons a{
+.icons +a{
   color: grey;
   text-decoration: none;
 }
 
-.image-cropper{
-  width: 100px;
-  height: 100px;
-  position: relative;
-  overflow: hidden;
-  border-radius: 50px;
+.profile{
+  background-color: #E4E4E4;
+  padding: 10px 10px 10px 5px;
 }
 
-.profile-pic{
-  display: inline;
-  margin-right: 50%;
-  height: 100%;
-  width: auto;
+.profile .text{
+  font-family: salsa, cursive;
+  align-items: center;
+  font-size: 1.5em;
 }
 
-/* .name {
-  color: #000000;
-  font-size: 1.92rem;
-  position: obsolute;
-  bottom: 10px;
-  left: 25px;
-} */
-
-/* .about_me_header {
-  height: 148px;
-  width: 400px;
-  background-image: url(../img/header.jpg);
-
-  background-position: bottom center;
-  background-size: cover;
-
-  margin-bottom: 10px;
-
-  position: relative;
-} */
+.Descriptor{
+  font-size: 0.9em;
+  color: silver;
+  padding-left: 10%;
+}
