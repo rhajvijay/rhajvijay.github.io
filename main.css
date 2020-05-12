@@ -17,3 +17,9 @@
   align-items: center;
   font-size: 1.5em;
 }
+
+.Descriptor{
+  font-size: 0.9em;
+  color: silver;
+  padding-left: 10%;
+}
