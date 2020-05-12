@@ -7,20 +7,34 @@
   text-decoration: none;
 }
 
-.image-cropper{
-  width: 100px;
-  height: 100px;
-  position: relative;
-  overflow: hidden;
-  border-radius: 50px;
+.profile{
+  background-color: #E4E4E4;
+  padding: 10px 10px 10px 5px;
 }
 
-.profile-pic{
+.profile .text{
+  font-family: salsa, cursive;
+  align-items: center;
+  font-size: 1.5em;
+}
+
+
+
+/* .image-cropper{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  overflow: hidden;
+  border-radius: 50px;
+} */
+
+/* .profile-pic{
   display: inline;
   margin-right: 50%;
   height: 100%;
   width: auto;
-}
+} */
+
 
 /* .name {
   color: #000000;
