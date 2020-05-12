@@ -2,7 +2,7 @@
   color: grey;
 }
 
-.icons a{
+.icons +a{
   color: grey;
   text-decoration: none;
 }
