@@ -1,0 +1,25 @@
+.icons{
+  color: grey;
+}
+
+.icons +a{
+  color: grey;
+  text-decoration: none;
+}
+
+.profile{
+  background-color: #E4E4E4;
+  padding: 10px 10px 10px 5px;
+}
+
+.profile .text{
+  font-family: salsa, cursive;
+  align-items: center;
+  font-size: 1.5em;
+}
+
+.Descriptor{
+  font-size: 0.9em;
+  color: silver;
+  padding-left: 10%;
+}
